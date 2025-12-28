@@ -128,7 +128,7 @@ data/
 
 ```bash
 cd src
-python train.py
+uv run train.py
 ```
 
 **Key hyperparameters** in `train.py`:
