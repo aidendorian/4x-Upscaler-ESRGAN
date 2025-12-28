@@ -27,8 +27,8 @@ This project uses [uv](https://github.com/astral-sh/uv) for dependency managemen
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd ESRGAN
+git clone https://github.com/aidendorian/4x-Upscaler-ESRGAN
+cd 4x-Upscaler-ESRGAN
 
 # Install dependencies with uv
 uv sync
